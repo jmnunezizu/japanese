@@ -8,13 +8,14 @@ Compared to Katakana, Hiragana letters have more curved lines.
 
 In modern Japanese, there are 46 basic Hiragana letters.
 
-In addition to these 46 basic letters called **gojūon**, there are modified forms to describe more sounds - 20 **dakuon**, 5 **handakuon**, 36 **yōon**, 1 **sokuon** and 6 additional letters.
+In addition to these 46 basic letters called **gojūon**, there are modified forms to describe more sounds - 20 
+**dakuon**, 5 **handakuon**, 36 **yōon**, 1 **sokuon** and 6 additional letters.
 
 ### Gojūon (五十音)
 
-|       | a        | i            | u            | e          | o         |
-| ----- | -------- | ------------ | ------------ | ---------  | --------- |
-|       | あ        | い           | う           | え         | お        |
+|       | a        | i            | u            | e          | o        |
+| ----- | -------- | ------------ | ------------ | ---------  | -------- |
+|       | あ <br>a  | い <br>i     | う <br>u     | え <br>e   | お <br>o  |
 | **k** | か <br>ka | き <br>ki    | く <br>ku    | け <br>ke  | こ <br>ko |
 | **s** | さ <br>sa | し <br>shi   | す <br>su    | せ <br>se  | そ <br>so |
 | **t** | た <br>ta | ち <br>chi   | つ <br>tsu   | て <br>te  | と <br>to |
@@ -86,6 +87,28 @@ Examples
 | さっき [sakki] | ひっし [hisshi] | いった [itta] | やっぱり [yappari] |
 | ------------- | -------------- | ------------ | ----------------- |
 
+## Katakana
+
+|       | a        | i            | u            | e          | o        | ya          | yu          | yo           |
+| ----- | -------- | ------------ | ------------ | ---------  | -------- | ----------- | ----------- | ------------ |
+|       | ア <br>a  | イ <br>i     | ウ <br>u     | エ <br>e   | オ <br>o  |             |             |              |
+| **k** | カ <br>ka | キ <br>ki    | ク <br>ku    | ケ <br>ke  | コ <br>ko | キャ <br>kya | キュ <br>kyu | キョ <br>kyo |
+| **s** | サ <br>sa | シ <br>shi   | ス <br>su    | セ <br>se  | ソ <br>so | シャ <br>sha | シュ <br>shu | ショ <br>sho |
+| **t** | タ <br>ta | チ <br>chi   | ツ <br>tsu   | テ <br>te  | ト <br>to | チャ <br>cha | チュ <br>chu | チョ <br>cho |
+| **n** | ナ <br>na | ニ <br>ni    | ヌ <br>nu    | ネ <br>ne  | ノ <br>no | ニャ <br>nya | ニュ <br>nyu | ニョ <br>nyo |
+| **h** | ハ <br>ha | ヒ <br>hi    | フ <br>fu    | ヘ <br>he  | ホ <br>ho | ヒャ <br>hya | ヒュ <br>hyu | ヒョ <br>hyo |
+| **m** | マ <br>ma | ミ <br>mi    | ム <br>mu    | メ <br>me  | モ <br>mo | ミャ <br>mya | ミュ <br>myu | ミョ <br>myo |
+| **y** | ヤ <br>ya |              | ユ <br>yu    |           | ヨ <br>yo |             |             |              |
+| **r** | ラ <br>ra | リ <br>ri    | ル <br>ru    | レ <br>re  | ロ <br>ro | リャ <br>rya | リュ <br>ryu | リョ <br>ryo |
+| **w** | ワ <br>wa | (ヰ) <br>(i) |              | (ヱ) <br>e | ヲ <br>o  |             |             |              |
+|       | ン <br>n  |              |             |            |           |             |             |              |
+| **g** | ガ <br>ga | ギ <br>gi    | グ <br>gu    | ゲ <br>ge  | ゴ <br>go | ヂャ <br>gya | ギュ <br>gyu | ギョ <br>gyo |
+| **z** | ザ <br>za | ジ <br>ji    | ズ <br>zu    | ゼ <br>ze  | ゾ <br>zo | ジャ <br>ja  | ジュ <br>ju  | ジョ <br>jo  |
+| **d** | ダ <br>da | ヂ <br>ji    | ヅ <br>zu    | デ <br>de  | ド <br>do | ヂャ <br>ja  | ヂュ <br>ju  | ヂョ <br>jo  |
+| **b** | バ <br>ba | ビ <br>bi    | ブ <br>bu    | ベ <br>be  | ボ <br>bo | ビャ <br>bya | ビュ <br>byu | ビョ <br>byo |
+| **p** | パ <br>pa | ピ <br>pi    | プ <br>pu    | ペ <br>pe  | ポ <br>po | ピャ <br>pya | ピュ <br>pyu | ピョ <br>pyo |
+
+
 ## Combined Chart
 
 ### Chart I
@@ -124,6 +147,22 @@ ha + ” ⟶ ba  | は ⟶ ば    | ハ ⟶ バ
 ha + ∘ ⟶ pa  | は ⟶ ぱ    | ハ ⟶ パ
 
 ### Chart III
+
+|       | a               | u              | o               |
+| ----- | --------------- | -------------- | --------------- |
+| **k** | きゃ キャ<br>kya | きゅ キュ<br>kyu | きょ キョ<br>kyo |
+| **s** | しゃ シャ<br>sha | しゅ シュ<br>shu | しょ ショ<br>sho |
+| **c** | ちゃ チャ<br>cha | ちゅ チュ<br>chu | ちょ チョ<br>cho |
+| **n** | にゃ ニャ<br>nya | にゅ ニュ<br>nyu | にょ ニョ<br>nyo |
+| **h** | ひゃ ヒャ<br>hya | ひゅ ヒュ<br>hyu | ひょ ヒョ<br>hyo |
+| **m** | みゃ ミャ<br>mya | みゅ ミュ<br>myu | みょ ミョ<br>myo |
+| **r** | りゃ リャ<br>rya | りゅ リュ<br>ryu | りょ リョ<br>ryo |
+| **g** | ぎゃ ギャ<br>gya | ぎゅ ギュ<br>gyu | ぎょ ギョ<br>gyo |
+| **j** | じゃ ジャ<br>ja  | じゅ ジュ<br>ju  | じょ ジョ<br>jo  |
+| **j** | ぢゃ ヂャ<br>ja  | ぢゅ ヂュ<br>ju  | ぢょ ヂョ<br>jo  |
+| **b** | びゃ ビャ<br>bya | びゅ ビュ<br>byu | びょ ビョ<br>byo |
+| **p** | ぴゃ ピャ<br>pya | ぴゅ ピュ<br>pyu | ぴょ ピョ<br>pyo |
+
 
 Transition        | Hiragana      | Katakana
 ----------------- | ------------- | -------------
